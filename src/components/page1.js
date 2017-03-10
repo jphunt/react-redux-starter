@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Category extends Component {
+class Page1 extends Component {
     render() {
         return (
-            <div>
-
+            <div className="content">
+                Page1
             </div>
         );
     }
 }
 
-export default Category;
+export default Page1;
